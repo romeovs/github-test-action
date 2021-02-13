@@ -5,6 +5,9 @@
   "repository": "https://github.com/romeovs/github-test-action.git",
   "author": "Romeo Van Snick <romeovs@gmail.com>",
   "license": "MIT",
+	"scripts": {
+		"build": "mkdir -p dist; echo 'console.log(`Hello world!`)' > dist/main.js"
+	},
   "devDependencies": {
     "rollup": "^2.39.0"
   }
