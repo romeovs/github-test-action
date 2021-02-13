@@ -1,0 +1,8 @@
+{
+  "name": "github-test-action",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/romeovs/github-test-action.git",
+  "author": "Romeo Van Snick <romeovs@gmail.com>",
+  "license": "MIT"
+}
